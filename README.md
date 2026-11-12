@@ -1,6 +1,6 @@
 # 🚗 مودات محاكي الحوادث (BeamNG.drive)
 
-أهلاً بكم في صفحتي الخاصة بمودات محاكي الحوادث. تجدون هنا أسماء المودات وروابط التحميل المباشرة:
+أهلاً بكم في صفحتي الخاصة بمودات محاكي الحوادث. تجدون هنا الخرائط والسيارات المحدثة:
 
 ---
 
@@ -21,20 +21,14 @@
 
 ---
 
-## 🚘 السيارات
+## 🚘 السيارات الجديدة
 
-* **كامري :** https://modsfire.com/1n9fA6KQrt2ZDx7
-* **مكسيما :** https://modsfire.com/c4RNI7uCDtrf0b4
-* **إي تن (i10) :** https://modsfire.com/ki4khx3nH2pv6ye
-* **تورس :** https://modsfire.com/X3P3tt2oMyD3LV2
-* **إلنترا N :** https://modsfire.com/Y3FIYzhrF8mSxMl
-* **ددسن :** https://modsfire.com/QI9z8EYzj248iyx
-* **تورس (رابط آخر) :** https://modsfire.com/V27g94s7C8aVFRB
-* **مكسيما (رابط آخر) :** https://modsfire.com/download/Yv31aCQGvgA398l/b5ce3
-* **كروز :** https://modsfire.com/3iEpU1JFe4P1195
-* **فورد :** https://modsfire.com/DMZZ8iDXfjA3sXF
-* **كامري 24 :** https://modsfire.com/download/woyu1oUb8K6q075/435e5
-* **أوبتما :** https://modsfire.com/download/CWJbt0bsqZ3q213/6b8f0
+* **كيا فور :** https://www.mediafire.com/file/j9qc27qomhlyg1j/LFR_Team_Kia_K4.7z/file
+* **كورولا 2020 :** https://modsfire.com/8DEfR0qHWCo19TZ
+* **أوبتما 16 :** https://www.mediafire.com/file/fi4ch7loh8isk40/3tb_kia_optima_2015.zip/file
+* **تورس جديدة :** https://modsfire.com/V27g94s7C8aVFRB
+* **إي تن (i10) :** https://modsfire.com/download/8Xg892asX65Whxb/d40fa
+* **أزيرا :** https://modsfire.com/ixorU0Eu1oLe87n
 
 ---
-📌 **طريقة التركيب:** تأكد أن يكون ملف المود بصيغة `.zip` وانقله مباشرة إلى مجلد `mods` داخل ملفات اللعبة.
+📌 **تنبيه هام للسيارات:** بعض روابط ميديافاير مثل "كيا فور" تنتهي بصيغة `.7z` أو `.zip`، إذا حملتها من الجوال وتأكدت أنها بصيغة `.zip` انقلها لمجلد المودات مباشرة، أما إذا كانت `.7z` أو `.rar` فاحرص على تحويلها أو فكها أولاً لتظهر داخل اللعبة بشكل صحيح!
