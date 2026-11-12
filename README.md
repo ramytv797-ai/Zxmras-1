@@ -21,14 +21,13 @@
 
 ---
 
-## 🚘 السيارات الجديدة
+## 🚘 السيارات
 
-* **كيا فور :** https://www.mediafire.com/file/j9qc27qomhlyg1j/LFR_Team_Kia_K4.7z/file
 * **كورولا 2020 :** https://modsfire.com/8DEfR0qHWCo19TZ
-* **أوبتما 16 :** https://www.mediafire.com/file/fi4ch7loh8isk40/3tb_kia_optima_2015.zip/file
-* **تورس جديدة :** https://modsfire.com/V27g94s7C8aVFRB
-* **إي تن (i10) :** https://modsfire.com/download/8Xg892asX65Whxb/d40fa
-* **أزيرا :** https://modsfire.com/ixorU0Eu1oLe87n
+* **إي تن (i10 2025) :** https://www.modland.net/beamng.drive-mods/cars/hyundai-i10-2025.html
+* **أوبتما :** https://modsfire.com/CWJbt0bsqZ3q213
+* **كامري :** https://modsfire.com/jG2d2M6CYbDTs3G
+* **تورس 21 :** https://modsfire.com/NRUKnwww4GN1o0A
 
 ---
-📌 **تنبيه هام للسيارات:** بعض روابط ميديافاير مثل "كيا فور" تنتهي بصيغة `.7z` أو `.zip`، إذا حملتها من الجوال وتأكدت أنها بصيغة `.zip` انقلها لمجلد المودات مباشرة، أما إذا كانت `.7z` أو `.rar` فاحرص على تحويلها أو فكها أولاً لتظهر داخل اللعبة بشكل صحيح!
+📌 **طريقة التركيب:** تأكد أن يكون ملف المود بصيغة `.zip` وانقله مباشرة إلى مجلد `mods` داخل ملفات اللعبة.
