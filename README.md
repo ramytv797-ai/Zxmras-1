@@ -6,6 +6,7 @@
 
 ## 🗺️ المابات (الخرائط)
 
+* **حلبة :** https://modsfire.com/5OLD74AYZo8EaO1
 * **ماب الرياض :** https://modsfire.com/B5DmmNP5CPi63IF
 * **ماب مزيد :** https://modsfire.com/6QlGEVrR1L5Dm0H
 * **ماب حاتم :** https://modsfire.com/4v51qabgobqm3lA
@@ -15,6 +16,7 @@
 
 ## 🚘 السيارات
 
+* **ددسن :** https://modsfire.com/QI9z8EYzj248iyx
 * **تورس :** https://modsfire.com/V27g94s7C8aVFRB
 * **مكسيما :** https://modsfire.com/download/Yv31aCQGvgA398l/b5ce3
 * **كروز :** https://modsfire.com/3iEpU1JFe4P1195
@@ -25,4 +27,3 @@
 
 ---
 📌 **طريقة التركيب:** تأكد أن يكون ملف المود بصيغة `.zip` وانقله مباشرة إلى مجلد `mods` داخل ملفات اللعبة.
-
