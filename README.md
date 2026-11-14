@@ -6,6 +6,10 @@
 
 ## 🗺️ المابات (الخرائط)
 
+* **ماب عقبة الباحه :** https://aldiwanng.com/mod.html?id=4755514d-0d28-46fd-abdf-cd5ff4bfe902
+* **ماب الجسر :** https://modsfire.com/3w21Uowmtcxz2HH
+* **ماب المجمعه :** https://modsfire.com/NG9aBt639y92Ifq
+* **ماب القصيم :** https://modsfire.com/7e1n2rwq6w8IqhH
 * **ماب مدينة الرياض :** https://modsfire.com/zSbAQTk0yDgNJMR
 * **ماب قراند :** https://www.patreon.com/posts/145154862
 * **ماب شوارع الدخل :** https://modsfire.com/wj53QmY2K5KpJnU
@@ -25,11 +29,24 @@
 
 ## 🚘 السيارات
 
-* **كامري 25 (XV80) :** قريباً (سيتم إيراد الرابط لاحقاً)
+* **مدبله :** https://modsfire.com/26wRUXy339tsFiD
+* **تورس 24 :** https://modsfire.com/V27g94s7C8aVFRB
+* **ربع :** https://modsfire.com/4ytFGm1b19IjtOR
+* **كامري 24 :** https://modsfire.com/download/woyu1oUb8K6q075/435e5
+* **دوج :** https://modsfire.com/download/A90qg31eVQr0z6e/a3b6a
+* **أوبتما :** https://modsfire.com/download/CWJbt0bsqZ3q213/6b8f0
+* **إي تن :** https://modsfire.com/download/8Xg892asX65Whxb/d40fa
+* **ازيرا :** https://modsfire.com/ixorU0Eu1oLe87n
+* **اكسنت :** https://modsfire.com/1qs5268glCJ92VZ
+* **ازيرا (2) :** https://modsfire.com/96ZlAhjNy0cdT0Q
+* **اكسنت 17 :** https://modsfire.com/9KQ5J8nnqva8U1D
+* **جينسس :** https://modsfire.com/AB1y9dZ52dw42vp
+* **كيا فايف :** https://modsfire.com/7381g72X3uvoXdT
+* **كيا ايت :** https://modsfire.com/UB692I7KcYJy947
+* **جلي ام :** https://modsfire.com/4xC6Ujn36b8VBgn
+* **اكورد :** https://modsfire.com/V2sQw4hZPikjES7
+* **كيا ريو :** https://modsfire.com/PC32gB5mhxeArXy
 * **كورولا 2020 :** https://modsfire.com/8DEfR0qHWCo19TZ
-* **إي تن (i10 2025) :** https://www.modland.net/beamng.drive-mods/cars/hyundai-i10-2025.html
-* **أوبتما :** https://modsfire.com/CWJbt0bsqZ3q213
-* **كامري :** https://modsfire.com/jG2d2M6CYbDTs3G
 * **تورس 21 :** https://modsfire.com/NRUKnwww4GN1o0A
 * **كامري (شيرمودز) :** https://sharemods.com/qa3nkrn4s55j/camry_75
 
