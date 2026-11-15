@@ -6,6 +6,7 @@
 
 ## 🗺️ المابات (الخرائط)
 
+* **ماب الرياض معدل :** [أضف الرابط هنا]
 * **ماب عقبة الباحه :** https://aldiwanng.com/mod.html?id=4755514d-0d28-46fd-abdf-cd5ff4bfe902
 * **ماب الجسر :** https://modsfire.com/3w21Uowmtcxz2HH
 * **ماب المجمعه :** https://modsfire.com/NG9aBt639y92Ifq
@@ -29,6 +30,8 @@
 
 ## 🚘 السيارات
 
+* **اكورد 2007 :** https://modsfire.com/wNZw90hx39L87kb
+* **دوج تشالنجر :** https://modsfire.com/9ze772dvUu67M30
 * **روكيت ليق فنك :** https://modsfire.com/Q8UVP3n9ywAai21
 * **كيا كادينزا :** https://aldiwanng.com/mod.html?id=ff8ecf36-a464-43c0-85de-cb1379cefd9a
 * **كيا فور :** https://aldiwanng.com/mod.html?id=e1bd4a21-1129-4f02-bcdc-4d4671790e57
