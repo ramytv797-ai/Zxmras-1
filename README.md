@@ -6,7 +6,7 @@
 
 ## 🗺️ المابات (الخرائط)
 
-* **ماب الرياض معدل :** [أضف الرابط هنا]
+* **ماب شارع النجاح :** https://aldiwanng.com/mod.html?id=3c370d4f-bfed-4c5b-b37d-ef253e77e99c
 * **ماب عقبة الباحه :** https://aldiwanng.com/mod.html?id=4755514d-0d28-46fd-abdf-cd5ff4bfe902
 * **ماب الجسر :** https://modsfire.com/3w21Uowmtcxz2HH
 * **ماب المجمعه :** https://modsfire.com/NG9aBt639y92Ifq
