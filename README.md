@@ -30,11 +30,13 @@
 
 ## 🚘 السيارات
 
+* **كرسيدا :** https://modsfire.com/53wak8Ctt861M6Z
+* **كيا فور :** https://modsfire.com/US521x4PP8UIh1
 * **اكورد 2007 :** https://modsfire.com/wNZw90hx39L87kb
 * **دوج تشالنجر :** https://modsfire.com/9ze772dvUu67M30
 * **روكيت ليق فنك :** https://modsfire.com/Q8UVP3n9ywAai21
 * **كيا كادينزا :** https://aldiwanng.com/mod.html?id=ff8ecf36-a464-43c0-85de-cb1379cefd9a
-* **كيا فور :** https://aldiwanng.com/mod.html?id=e1bd4a21-1129-4f02-bcdc-4d4671790e57
+* **كيا فور (القديمة) :** https://aldiwanng.com/mod.html?id=e1bd4a21-1129-4f02-bcdc-4d4671790e57
 * **سوناتا 17 :** https://aldiwanng.com/mod.html?id=b3b0dce0-8c5b-4ae5-aa47-c5e3f20c281a
 * **سوناتا 24 :** https://aldiwanng.com/mod.html?id=2b75402e-91f7-4c7a-84f8-4beef4607fc1
 * **لكزس صفيره :** https://aldiwanng.com/mod.html?id=f9735f54-cace-4dd2-bde8-f522ba4eef10
